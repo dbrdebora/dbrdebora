@@ -40,11 +40,13 @@ const debora = {
 
 ## 📚 Atualmente Estudando
 
-* 💻 Engenharia de Software
-* 🌐 Desenvolvimento Front-End
-* 🗄️ Banco de Dados
+* 💻 Fundamentos de Engenharia de Software
+* 🌐 HTML, CSS e JavaScript
+* 🗄️ Modelagem e Banco de Dados
 * ⚡ Lógica de Programação
-* 🎨 Design Responsivo
+* 🎨 Estruturação e estilização de páginas web
+* 🚀 Desenvolvimento de pequenos projetos para prática
+
 
 ---
 
@@ -65,7 +67,7 @@ const debora = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/SEUINSTAGRAM">
+<a href="https://www.instagram.com/deboraa_aandradee/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
